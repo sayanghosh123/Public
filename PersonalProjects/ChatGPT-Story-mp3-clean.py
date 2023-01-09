@@ -1,3 +1,7 @@
+#Replace all the * marked obfuscated text to your environment to make the code work
+#pip install for OpenAI, Azure Cognitive Services, and Google Drive API required
+#Python --version tested on - Python 3.10.9
+
 #Required for the Open AI text generation
 import openai
 
